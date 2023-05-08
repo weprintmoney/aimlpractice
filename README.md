@@ -20,48 +20,48 @@ This repository contains a set of practice assignments for Artificial Intelligen
 
 ## Fundamentals of AIML
 
-- Cardio Good Fitness Project
+- [Cardio Good Fitness Project](https://github.com/weprintmoney/aimlpractice/blob/main/Cardio%20Good%20Fitness%20Project.ipynb)
   - Dataset: [CardioGoodFitness.csv](https://drive.google.com/file/d/1w0RZRoBmiIfO5HeZhghZeG9yRRRwP7Px/view?usp=sharing)
 
 ## Supervised Learning: Regression
 
-- Cars4U Project
+- [Cars4U Project](https://github.com/weprintmoney/aimlpractice/blob/main/Cars4U%20Project.ipynb)
   - Dataset: [used_cars_data.csv](https://drive.google.com/file/d/18i_OKMqt5G33NjabFfCv2YKJHi5xvjya/view?usp=share_link)
 
 ## Supervised Learning: Classification
 
-- Personal Loan Campaign
+- [Personal Loan Campaign](https://github.com/weprintmoney/aimlpractice/blob/main/Personal%20Loan%20Campaign.ipynb)
   - Dataset: [Loan_Modelling.csv](https://drive.google.com/file/d/1GkKw2gnlevH7oc3GKktZuo2BZpDBPoFv/view?usp=share_link)
 
 ## Ensemble Techniques
 
-- Travel Package Purchase Prediction
+- [Travel Package Purchase Prediction](https://github.com/weprintmoney/aimlpractice/blob/main/Travel%20Package%20Purchase%20Prediction.ipynb)
   - Dataset: [Tourism.xlsx](https://docs.google.com/spreadsheets/d/1t0L2Ly37nkMq2UJqCwfCh5dO3zCFGJs-/edit?usp=share_link&ouid=105207491410102480746&rtpof=true&sd=true)
 
 ## Feature Selection, Model Selection, & Tuning
 
-- Credit Card Users Churn Prediction
+- [Credit Card Users Churn Prediction](https://github.com/weprintmoney/aimlpractice/blob/main/Credit%20Card%20Users%20Churn%20Prediction.ipynb)
   - Dataset: [BankChurners.csv](https://drive.google.com/file/d/1o7DWPHcmaNsE4MAy6FHLeBe_Ej4I5KQY/view?usp=share_link)
 
 ## Unsupervised Learning
 
-- AllLife Bank Customer Segmentation
+- [AllLife Bank Customer Segmentation](https://github.com/weprintmoney/aimlpractice/blob/main/AllLife%20Bank%20Customer%20Segmentation.ipynb)
   - Dataset: [Credit Card Customer Data.xlsx](https://docs.google.com/spreadsheets/d/1RXnmettXZ1E4wNtz8aHYdULhrsXWzPdt/edit?usp=share_link&ouid=105207491410102480746&rtpof=true&sd=true)
 
 ## Deep Neural Networks
 
-- Bank Churn Prediction
+- [Bank Churn Prediction](https://github.com/weprintmoney/aimlpractice/blob/main/Bank%20Churn%20Prediction.ipynb)
   - Dataset: [churn.csv](https://drive.google.com/file/d/1LDsb1fzbMq-jK4BHVKD8SNEsPSZmWEhX/view?usp=share_link)
 
 ## Computer Vision
 
-- Plants Seedling Classification
+- [Plants Seedling Classification](https://github.com/weprintmoney/aimlpractice/blob/main/Plants%20Seedling%20Classification.ipynb)
   - Dataset: [labels.csv](https://drive.google.com/file/d/1-EYgmxPDmwIBA6lvSCXTN6VeUx0Hys_A/view?usp=share_link)
   - Dataset: [images.npy](https://drive.google.com/file/d/1d6goNSozkTvoAYIXkIKKDg6A8sZp51F1/view?usp=share_link)
 
 ## Natural Language Processing
 
-- Twitter US Airline Sentiment
+- [Twitter US Airline Sentiment](https://github.com/weprintmoney/aimlpractice/blob/main/Twitter%20US%20Airline%20Sentiment.ipynb)
   - Dataset: [Tweets.csv](https://drive.google.com/file/d/1ti9wfyVMgbojs39LGh6UhwubIJRey487/view?usp=share_link)
 
 ## How to Use
