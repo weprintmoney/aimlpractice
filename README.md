@@ -1,4 +1,4 @@
-# Welcome to the AI ML Practice Repository
+# Welcome to the Classical Machine Learning Practice Repository
 
 ![AIML](https://img.shields.io/badge/AIML-Practice-brightgreen.svg)
 ![License](https://img.shields.io/github/license/weprintmoney/aimlpractice.svg)
